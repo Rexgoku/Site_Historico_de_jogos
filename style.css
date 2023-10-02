@@ -1,0 +1,162 @@
+body{
+	background-color:purple;
+}
+#cabecalho{
+	background-color:black;
+	
+}
+#cabecalho h1{ 
+	color:white;
+	text-align:center;
+	font-family:alling;
+	position:absolute;
+	top:20px;
+	left:300px;
+	font-size:2cm;
+	
+}
+#menu{
+	background-color:white;
+	text-align:center;/*centralizar o menu*/
+	height:80px;
+}
+#menu li{
+	display:inline;/*mostra os itens do menu na horizontal */
+	list-style:none;/*tirar os marcadores dos intens do menu*/
+}
+#menu a{
+	text-decoration:none;/*tira o sublinhado*/
+	color:green;/*alterando a cor do hiperlink*/
+	font-size:20pt;/*alterando o tamanho da letra do link*/
+	margin:1px solid black;
+	padding:15px 20px 15px 20px;
+	margin-right:10px;/*Margem externa*/
+	line-height:80px;/*centraliza o menu de acordo com a altura da linha*/
+	
+}
+#menu a:hover{
+	background-color:red;
+	color:white;
+	border:3px solid black;
+	
+}	
+#carrousel{
+	background-color:black;
+	background-image:linear-gradient(to right,#ff0000,#ff0066,#990099);
+}
+#conteudo{
+	background-color:white;
+	display:grid;/*transforma a seção em grade*/
+	grid-template-columns:49% 48%;/*2 colunas*/
+	grid-gap:2%;/*insere espaço entre as colunas*/
+	text-align:center;/*alinha o texto centralizado*/
+}
+#galeria{
+	background-color:white;
+	display:grid;
+	grid-template-columns:19% 19% 19% 19% 19%;
+	grid-gap:1%;
+	background-image:linear-gradient(to right,#ff0000,#ff0066,#990099);
+}
+
+#galeria img{/*padronizando o tamanho das imagens da galeria*/
+	 width:100%;/*adapta a largura da imagem com a largura da coluna*/
+	 height:200px;/* determina a altura da imagem*/
+}
+
+
+#jumbotron{
+	text-align:center;
+	background-color:black;
+	color:white;
+	
+}
+#jumbotron p{
+	font-family:calibri;
+	font-size:20px;
+	color:#667;
+}
+#jumbotron a{
+	text-decoration:none;
+	font-size:20px;
+	font-family:calibri;
+	color:red;
+	background-color:white;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:40px;
+	padding-left:40px;
+	border-radius:10px;
+	
+}
+#jumbotron a:hover{
+	color:black;
+	background-color:gray;
+}
+#contato{
+	background-color:orenge;
+	display:grid;
+	grid-template-columns:50% 50%;
+}
+
+#formulario{
+	text-align:center;
+	background-image:linear-gradient(to right,purple,rgb(227, 129, 146),red) ;
+	
+}
+#formulario input{/*caixas de texto do form*/
+	width:50%;/*tamanho*/
+	padding:10px 30px 20px 10px;/*tam interno*/
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:40px;
+	padding-left:40px;
+	border-radius:10px;/*bordas arredondadas*/
+	border:1px solid black;/*cor da borda*/
+	margin-bottom:10px;
+	background-color:white;/*cor da borda*/
+}
+
+::placeholder{/*altera as consigurações do placeholder*/
+	color:black;
+}
+#mapa{
+	text-align:center;
+	Background-image:linear-gradient(to right,purple,rgb(227, 129, 146),red)
+}
+#rodape{
+	background-color:white;
+	display:grid;
+	grid-template-columns:33% 33% 33% ;
+}
+.titulo{
+	font-family:arial Green;
+	font-size:40;
+	color:blue;
+}
+#seleçao{
+	background-image: linear-gradient(to right,red,rgb(227, 129, 146),purple);
+	width:50%;
+	color:white;
+}
+.link{
+	color:purple;
+	font-weight:bolder;
+	font-family:calibri;
+	font-size:15pt;
+	text-decoration:none;
+}
+.p_rodape{
+	font-weight:bolder;
+	font-family:calibri;
+	font-size:15pt;
+	text-align:center;
+}
+.cx_texto{
+    width: 50%;
+    border-radius: 10px;
+    border-color:cornflowerblue;
+    font-family:Arial, Helvetica, sans-serif;
+    color:blue;
+    margin-bottom:5px;
+}

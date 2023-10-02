@@ -1,0 +1,101 @@
+ <!doctype html>
+ <html>
+	<head>
+		<meta Charset="utf-8">
+		<title>O mundo de jogos</title>
+		<link rel="stylesheet" href="style.css">
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine3/style.css" />
+	<script type="text/javascript" src="engine3/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section -->
+	</head>
+
+    <body>
+		<div id="cabecalho">
+			<img src="Joseph Artur.png" width="300" height="200">
+			<h1>Historico dos Jogos</h1>
+		</div>
+		<div id="menu">
+			<ul>
+				<li><a href="">Home</a></li>
+				<li><a href="">Categorias</a></li>
+				<li><a href="">Jogos clássicos</a></li>
+				<li><a href="">Contato</a></li>
+			</ul>
+		<h1>
+		</div>
+		<div id="carrousel">
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container3">
+	<div class="ws_images"><ul>
+		<li><img src="data3/images/assasins_creed.jpg" alt="Assasins Creed" title="Assasins Creed" id="wows3_0"/></li>
+		<li><img src="data3/images/metal_gear_rising.jpg" alt="Metal Gear Rising" title="Metal Gear Rising" id="wows3_1"/></li>
+		<li><img src="data3/images/street_fighter_v.jpg" alt="Street Fighter V" title="Street Fighter V" id="wows3_2"/></li>
+		<li><img src="data3/images/sonic.png" alt="sonic" title="sonic" id="wows3_3"/></li>
+		<li><img src="data3/images/t.e.k.e.n_7.jpg" alt="T.E.K.E.N 7" title="T.E.K.E.N 7" id="wows3_4"/></li>
+		<li><a href="http://wowslider.net"><img src="data3/images/mario.jpg" alt="javascript carousel" title="mario" id="wows3_5"/></a></li>
+		<li><img src="data3/images/mortal_kombat_9.jpg" alt="Mortal Kombat 9" title="Mortal Kombat 9" id="wows3_6"/></li>
+	</ul></div>
+	<div class="ws_bullets"><div>
+		<a href="#" title="Assasins Creed"><span><img src="data3/tooltips/assasins_creed.jpg" alt="Assasins Creed"/>1</span></a>
+		<a href="#" title="Metal Gear Rising"><span><img src="data3/tooltips/metal_gear_rising.jpg" alt="Metal Gear Rising"/>2</span></a>
+		<a href="#" title="Street Fighter V"><span><img src="data3/tooltips/street_fighter_v.jpg" alt="Street Fighter V"/>3</span></a>
+		<a href="#" title="sonic"><span><img src="data3/tooltips/sonic.png" alt="sonic"/>4</span></a>
+		<a href="#" title="T.E.K.E.N 7"><span><img src="data3/tooltips/t.e.k.e.n_7.jpg" alt="T.E.K.E.N 7"/>5</span></a>
+		<a href="#" title="mario"><span><img src="data3/tooltips/mario.jpg" alt="mario"/>6</span></a>
+		<a href="#" title="Mortal Kombat 9"><span><img src="data3/tooltips/mortal_kombat_9.jpg" alt="Mortal Kombat 9"/>7</span></a>
+	</div></div><div class="ws_script" style="position:absolute;left:-99%"></div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine3/wowslider.js"></script>
+	<script type="text/javascript" src="engine3/script.js"></script>
+	<!-- End WOWSlider.com BODY section -->
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	
+		
+		</div>
+		</h1>
+		<div id="conteudo">
+		<h1>O que é conceito jogo?:</h1>
+		<h1>Qual é a origem dos jogos?:</h1>
+		<p>Jogo é um termo do latim “jocus” que significa gracejo, brincadeira, divertimento. O conceito de jogo consiste numa atividade física ou intelectual formada por um conjunto de regras e define um indivíduo (ou um grupo) como vencedor e outro como perdedor.</p>
+		<p>Pesquisas realizadas revelam que a origem dos jogos surgiu no século XVI, e que os primeiros estudos foram em Roma e Grécia, com propósito de ensinar letras. Com o início do cristianismo, o interesse decresceu, pois tinham um propósito de uma educação disciplinadora, de memorização e de obediência.</p>
+		<h1>Quais são as principais características dos jogos?:</h1>
+		<h1>O que é o jogo na educação física?:</h1>
+		<p>As características básicas para que uma atividade seja considerada um jogo são: 1) regras mutáveis, ou seja, os jogadores podem combinar e recombinar as regras durante a prática; 2) por ser uma atividade que pode estimular tanto a competição quanto a cooperação; 3) pode ser jogado individualmente ou em grupo; 4)</p>
+		<p>O Jogo é uma atividade física ou mental organizada por um sistema de regras que definem perda ou ganho. A palavra “jogo” se origina do vocábulo latino iocus que significa diversão, brincadeira.</p><br/>
+		
+		
+		</div>
+		<br/><div id="galeria">
+		<img src="joshog12.jpg" height="150">
+		<img src="jogos.jpg">
+		<img src="josgos.jpg">
+		<img src="josgos2.jpg">
+		<img src="josgos324.jpg" width="250" height="150">
+		</div>
+		<div id="jumbotron">
+			<H1>Empresa:</h1>
+			<p><h3>
+			Nossa empresa fala sobre as historias de jogos e teorias deles.Se quiser que sua Teoria seja exibida nesse site é só entrar em contato com a gente.
+			</p></h3>
+			<a href="">Entrar</a>
+			<br><br><br>
+		</div>
+		<div id="contato">
+		</div>
+		<div id="rodape">
+		</div>
+	</body>
+</html>	

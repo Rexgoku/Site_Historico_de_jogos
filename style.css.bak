@@ -1,0 +1,97 @@
+body{
+	background-color:purple;
+}
+#cabecalho{
+	background-color:black;
+	
+}
+#cabecalho h1{ 
+	color:white;
+	text-align:center;
+	font-family:alling;
+	position:absolute;
+	top:20px;
+	left:300px;
+	font-size:2cm;
+}
+#menu{
+	background-color:white;
+	text-align:center;/*centralizar o menu*/
+	height:80px;
+}
+#menu li{
+	display:inline;/*mostra os itens do menu na horizontal */
+	list-style:none;/*tirar os marcadores dos intens do menu*/
+}
+#menu a{
+	text-decoration:none;/*tira o sublinhado*/
+	color:green;/*alterando a cor do hiperlink*/
+	font-size:20pt;/*alterando o tamanho da letra do link*/
+	margin:1px solid black;
+	padding:15px 20px 15px 20px;
+	margin-right:10px;/*Margem externa*/
+	line-height:80px;/*centraliza o menu de acordo com a altura da linha*/
+	
+}
+#menu a:hover{
+	background-color:red;
+	color:white;
+	border:3px solid black;
+	
+}	
+#carrousel{
+	background-color:black;
+}
+#conteudo{
+	background-color:white;
+	display:grid;/*transforma a seção em grade*/
+	grid-template-columns:49% 48%;/*2 colunas*/
+	grid-gap:2%;/*insere espaço entre as colunas*/
+	text-align:center;/*alinha o texto centralizado*/
+}
+#galeria{
+	background-color:url ("obasidioni.jfif");
+	display:grid;
+	grid-template-columns:19% 19% 19% 19% 19%;
+	grid-gap:1%;
+}
+
+#galeria img{/*padronizando o tamanho das imagens da galeria*/
+	 width:100%;/*adapta a largura da imagem com a largura da coluna*/
+	 height:200px;/* determina a altura da imagem*/
+}
+
+#jumbotron{
+	text-align:center;
+	background-color:black;
+	color:white;
+	
+}
+#jumbotron p{
+	font-family:calibri;
+	font-size:20px;
+	color:#667;
+}
+#jumbotron a{
+	text-decoration:none;
+	font-size:20px;
+	font-family:calibri;
+	color:red;
+	background-color:white;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:40px;
+	padding-left:40px;
+	border-radius:10px;
+	
+}
+#jumbotron a:hover{
+	color:black;
+	background-color:gray;
+}
+#contato{
+	background-color:orenge;
+}
+#rodape{
+	background-color:black;
+}
